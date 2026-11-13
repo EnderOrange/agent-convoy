@@ -1,5 +1,5 @@
 /**
- * crypto.js - RemoteLink encrypt layer
+ * crypto.js - Agent Convoy encrypt layer
  * Primary: Web Crypto API (crypto.subtle) - standards compliant, matches Python AESGCM
  * Fallback: pure-JS AES-GCM (only if subtle unavailable)
  *
