@@ -1,5 +1,5 @@
-/* RemoteLink Service Worker - 离线缓存 */
-var CACHE = 'remotelink-v2';
+/* Agent Convoy Service Worker - 离线缓存 */
+var CACHE = 'agent-convoy-v1';
 var ASSETS = [
   './index.html',
   './crypto.js',
